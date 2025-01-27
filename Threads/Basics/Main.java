@@ -55,8 +55,13 @@ public class Main {
         int totalSum = t1.getSomaParcial() + t2.getSomaParcial();
         System.out.println("Soma Total: " + totalSum);
 
+        System.out.println(vetor1.length);
+
         System.out.println("Main finished");
-    
+        
+        // Compilar: javac *.java
+        // Executar: java Main
+
     }
 
 }

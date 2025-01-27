@@ -26,6 +26,7 @@ public class ThreadExtends extends Thread {
     public int getSumStart(int[] vetor) {
         int sum = 0;
         for (int i = 0; i < vetor.length/2; i++) {
+            System.out.println(this.name + " - " + i);
             sum += vetor[i];
         }
         return sum;
@@ -34,6 +35,7 @@ public class ThreadExtends extends Thread {
     public int getSumEnd(int[] vetor) {
         int sum = 0;
         for (int i = vetor.length/2; i < vetor.length; i++) {
+            System.out.println(this.name + " - " + i);
             sum += vetor[i];
         }
         return sum;
