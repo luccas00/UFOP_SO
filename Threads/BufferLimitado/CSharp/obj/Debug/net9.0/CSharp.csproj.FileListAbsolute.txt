@@ -1,0 +1,15 @@
+/Users/luccascarneiro/Desktop/SandBox/UFOP/SO/Threads/BufferLimitado/CSharp/obj/Debug/net9.0/CSharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/luccascarneiro/Desktop/SandBox/UFOP/SO/Threads/BufferLimitado/CSharp/obj/Debug/net9.0/CSharp.AssemblyInfoInputs.cache
+/Users/luccascarneiro/Desktop/SandBox/UFOP/SO/Threads/BufferLimitado/CSharp/obj/Debug/net9.0/CSharp.AssemblyInfo.cs
+/Users/luccascarneiro/Desktop/SandBox/UFOP/SO/Threads/BufferLimitado/CSharp/obj/Debug/net9.0/CSharp.csproj.CoreCompileInputs.cache
+/Users/luccascarneiro/Desktop/SandBox/UFOP/SO/Threads/BufferLimitado/CSharp/obj/Debug/net9.0/CSharp.sourcelink.json
+/Users/luccascarneiro/Desktop/SandBox/UFOP/SO/Threads/BufferLimitado/CSharp/bin/Debug/net9.0/CSharp
+/Users/luccascarneiro/Desktop/SandBox/UFOP/SO/Threads/BufferLimitado/CSharp/bin/Debug/net9.0/CSharp.deps.json
+/Users/luccascarneiro/Desktop/SandBox/UFOP/SO/Threads/BufferLimitado/CSharp/bin/Debug/net9.0/CSharp.runtimeconfig.json
+/Users/luccascarneiro/Desktop/SandBox/UFOP/SO/Threads/BufferLimitado/CSharp/bin/Debug/net9.0/CSharp.dll
+/Users/luccascarneiro/Desktop/SandBox/UFOP/SO/Threads/BufferLimitado/CSharp/bin/Debug/net9.0/CSharp.pdb
+/Users/luccascarneiro/Desktop/SandBox/UFOP/SO/Threads/BufferLimitado/CSharp/obj/Debug/net9.0/CSharp.dll
+/Users/luccascarneiro/Desktop/SandBox/UFOP/SO/Threads/BufferLimitado/CSharp/obj/Debug/net9.0/refint/CSharp.dll
+/Users/luccascarneiro/Desktop/SandBox/UFOP/SO/Threads/BufferLimitado/CSharp/obj/Debug/net9.0/CSharp.pdb
+/Users/luccascarneiro/Desktop/SandBox/UFOP/SO/Threads/BufferLimitado/CSharp/obj/Debug/net9.0/CSharp.genruntimeconfig.cache
+/Users/luccascarneiro/Desktop/SandBox/UFOP/SO/Threads/BufferLimitado/CSharp/obj/Debug/net9.0/ref/CSharp.dll

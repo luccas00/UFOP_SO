@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BufferLimitado", "BufferLimitado", "{3972FDDF-7060-70DE-8ED7-0D4B5D379AE3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp", "BufferLimitado\CSharp\CSharp.csproj", "{D239AA46-FA73-7FC6-82AB-8A7594A052FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D239AA46-FA73-7FC6-82AB-8A7594A052FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D239AA46-FA73-7FC6-82AB-8A7594A052FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D239AA46-FA73-7FC6-82AB-8A7594A052FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D239AA46-FA73-7FC6-82AB-8A7594A052FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{D239AA46-FA73-7FC6-82AB-8A7594A052FB} = {3972FDDF-7060-70DE-8ED7-0D4B5D379AE3}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DC2C3E93-0ED9-4259-93B1-A62483596A89}
+	EndGlobalSection
+EndGlobal
